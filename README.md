@@ -52,7 +52,7 @@ This sophisticated financial modeling dashboard demonstrates a comprehensive dig
 
 ## 🚀 Live Demo
 
-**[📱 View Live Dashboard]([digital-transformation-dashboard.vercel.app](https://digital-transformation-dashboard.vercel.app))**
+**[📱 View Live Dashboard](https://digital-transformation-dashboard.vercel.app))**
 
 Explore interactive sections:
 - **Overview**: ROI timeline and 7-S progress
