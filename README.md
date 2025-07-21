@@ -2,7 +2,7 @@
 
 > **Interactive McKinsey 7-S Framework Analysis with Advanced Financial Modeling**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://your-dt-dashboard-url.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](digital-transformation-dashboard.vercel.app)
 [![React](https://img.shields.io/badge/React-18.0-blue)](https://reactjs.org/)
 [![ROI](https://img.shields.io/badge/ROI-6079%25-success)](https://your-dt-dashboard-url.com)
 
@@ -52,7 +52,7 @@ This sophisticated financial modeling dashboard demonstrates a comprehensive dig
 
 ## 🚀 Live Demo
 
-**[📱 View Live Dashboard](https://your-dt-dashboard-url.com)**
+**[📱 View Live Dashboard](digital-transformation-dashboard.vercel.app)**
 
 Explore interactive sections:
 - **Overview**: ROI timeline and 7-S progress
@@ -178,8 +178,8 @@ digital-transformation-dashboard/
 
 Part of the **Elite Consulting Portfolio** for MSBA applications and MBB recruiting.
 
-- 📧 **Email**: [your.email@example.com]
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile]
+- 📧 **Email**: [jsher100@gmail.com]
+- 💼 **LinkedIn**: [linkedin.com/in/jonathan-sher]
 - 🌐 **Portfolio**: [your-portfolio-url.com]
 
 ---
