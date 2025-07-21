@@ -2,7 +2,7 @@
 
 > **Interactive McKinsey 7-S Framework Analysis with Advanced Financial Modeling**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](digital-transformation-dashboard.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-brightgreen)](https://digital-transformation-dashboard.vercel.app)
 [![React](https://img.shields.io/badge/React-18.0-blue)](https://reactjs.org/)
 [![ROI](https://img.shields.io/badge/ROI-6079%25-success)](https://your-dt-dashboard-url.com)
 
