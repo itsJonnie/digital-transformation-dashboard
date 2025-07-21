@@ -52,7 +52,7 @@ This sophisticated financial modeling dashboard demonstrates a comprehensive dig
 
 ## 🚀 Live Demo
 
-**[📱 View Live Dashboard](digital-transformation-dashboard.vercel.app)**
+**[📱 View Live Dashboard]([digital-transformation-dashboard.vercel.app](https://digital-transformation-dashboard.vercel.app))**
 
 Explore interactive sections:
 - **Overview**: ROI timeline and 7-S progress
@@ -178,9 +178,8 @@ digital-transformation-dashboard/
 
 Part of the **Elite Consulting Portfolio** for MSBA applications and MBB recruiting.
 
-- 📧 **Email**: [jsher100@gmail.com]
-- 💼 **LinkedIn**: [linkedin.com/in/jonathan-sher]
-- 🌐 **Portfolio**: [your-portfolio-url.com]
+- 💼 **LinkedIn**: [[linkedin.com/in/jonathan-sher](https://www.linkedin.com/in/jonathan-sher/)]
+
 
 ---
 
